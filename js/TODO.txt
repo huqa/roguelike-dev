@@ -1,0 +1,13 @@
+- Animation stack!
+- multiple entitys on one tile [done'd]
+- FOV
+- animals, monsters, ai
+- persistence, possibly localStorage
+- status
+- inventory viewing (equipping etc.) [done'd]
+- log viewer mode
+- weather (possibly supernatural)
+
+BUGS 
+able to target and shoot behind walls
+
